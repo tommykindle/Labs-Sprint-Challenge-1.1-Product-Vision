@@ -17,7 +17,10 @@ In your challenge this week, you will demonstrate understanding over these topic
 
 You are not allowed to collaborate during the Journal Entry. However, you are encouraged to follow the twenty-minute rule and seek support from your TL if you need direction. Your work reflects your proficiency in user interface and your command of the concepts and techniques in team planning and product vision.
 
-You have three hours to complete this challenge. Plan your time accordingly.
+We have allocated time on your schedule to ensure that you get this done at the end of each sprint.
+
+- For Full Time Students: Please submit your work on this journal entry before 12pm PST every Friday.
+- For Part Time Students: Please submis your work on this journal entry before the end of your 2nd '5th' day.
 
 ## Template: Decision Defense
 
