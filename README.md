@@ -21,7 +21,7 @@ You are not allowed to collaborate during the Sprint Challenge. However, you are
 
 You have three hours to complete this challenge. Plan your time accordingly.
 
-## Decision Defense
+## Template: Decision Defense
 
 Please respond to the following prompts to demonstrate your understanding of product vision planning sessions.
 
@@ -46,7 +46,7 @@ You are expected to be able to answer all these questions. Your responses contri
 
 ## Submitting your work
 
-Please submit a pull-request and add your TL as a reviewer.
+Please submit a google doc in the retro form.
 
 ## Rubric & Samples
 
