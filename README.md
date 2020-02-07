@@ -20,7 +20,7 @@ You are not allowed to collaborate during the Journal Entry. However, you are en
 We have allocated time on your schedule to ensure that you get this done at the end of each sprint.
 
 - For Full Time Students: Please submit your work on this journal entry before 12pm PST every Friday.
-- For Part Time Students: Please submis your work on this journal entry before the end of your 2nd '5th' day.
+- For Part Time Students: Please submit your work on this journal entry before the end of your 2nd '5th' day.
 
 ## Template: Decision Defense
 
@@ -53,4 +53,4 @@ Please submit a link to your journal entry for this sprint, in the Sprint Retros
 
 [Here is a link to the rubric](https://www.notion.so/lambdaschool/1-1-Rubric-Product-Vision-35451a1d7aa74ec799fa963f275e9a0c) that will be used to assess your answers to the prompts. _Use this as a guide_ as you craft your responses.
 
-[Here is a link to a sample submission](https://www.notion.so/lambdaschool/1-1-Defense-Entry-Product-Vision-30074cc900dc401fa524443720d9d7c5) that you can use for inspiration.
+[Here is a link to a sample submission](https://docs.google.com/document/d/1H7eJ92uM_6xB4qPtVgQMSf4CfbHPuVDqr4mb1LaG8nk/edit) that you can use for inspiration.
