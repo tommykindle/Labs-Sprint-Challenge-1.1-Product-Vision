@@ -4,10 +4,7 @@ This challenge allows you to practice the concepts and techniques learned over t
 
 - Logistics
 - Measuring Success
-- Intro to Product Teams
-- Product Cycle Introduction
-- PVD Guided Project
-- Stakeholder Communication
+- Products & Ethics
 
 In your challenge this week, you will demonstrate understanding over these topics by responding to 2 prompts
 
